@@ -10,7 +10,7 @@ WELCOME_MESSAGE = """Evveet Sigmoid burada!🙂\nSanırım ne yapacağını bile
                  """
 
 
-TOKEN = "YOUR-TELEGRAM-BOT-TOKEN"
+TOKEN = "6178473586:AAGxEadlXBaXIp2HkCNDZElG_X2FHq48It8"
 
 
 SORRY_MESSAGE = "Ahh bazen kafam gidiyor...😔\n Şu an yalnızca şu komutları anlayabiliyorum...\n\n - /sondakika \n - /kitapbul kitap adi\n - /kurlar \n -/gunlukburc burcun \n -/havadurumu sehir"
